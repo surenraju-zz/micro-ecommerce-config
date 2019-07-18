@@ -1,8 +1,8 @@
 ## Info endpoint
 info:
   app:
-    name: Catalog service
-    description: Product Catalog Microservice
+    name: Vendor service
+    description: Vendor Microservice
 
 server:
   port: 8084
